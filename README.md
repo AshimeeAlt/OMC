@@ -36,6 +36,6 @@ this will take the next `string length` bytes and set that as the variable
 
 #### Legal
 
-`OMC` is not affiliated with `OriginOS`, `Origin`, `OASM`, `OTAS` or `Mistium`, nor is `OCM` endorsed by any of the above, This is purely a fan project.
+`OMC` is not affiliated with `OriginOS`, `Origin`, `OASM`, `OTAS` or `Mistium`, nor is `OMC` endorsed by any of the above, This is purely a fan project.
 
 The **license** is `LGPLv3 w/ MIT`
